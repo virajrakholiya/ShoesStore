@@ -1,0 +1,17 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "Assets/Fonts/Poppins Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "Assets/Fonts/Raleway Bold.ttf",
+      "sha1": "df52b051d8cbe8f238a4192d1b81e6dca2a08f72"
+    },
+    {
+      "path": "Assets/Fonts/Raleway SemiBold.ttf",
+      "sha1": "a98dee96e1e93fbf4ff1c50f6e8834e49f17f72f"
+    }
+  ]
+}
